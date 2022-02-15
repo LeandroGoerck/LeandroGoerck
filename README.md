@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leandro Elias Goerck</h1>
 <h3 align="center">A passionate fullstack student from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrogoerck&label=Profile%20views&color=0e75b6&style=flat" alt="leandrogoerck" /> </p>
-
 - 🌱 I’m currently learning **docker at Trybe**
 
 <h3 align="left">Connect with me:</h3>
