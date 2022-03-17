@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Elias Goerck</h1>
 <h3 align="center">A passionate fullstack student from Brazil</h3>
 
-- 🌱 I’m currently learning **MySql at Trybe**
+- 🌱 I’m currently learning **Node.js at Trybe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
