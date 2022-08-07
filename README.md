@@ -6,7 +6,7 @@
 Studying software development at Trybe.  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' /> 
   - :heavy_check_mark: Web Development Introduction
   - :heavy_check_mark: Front-end Development
-  - :white_square_button: Back-end Development
+  - :heavy_check_mark: Back-end Development
   - :white_square_button: Computer Cience
 
 <h3 align="left">Connect with me:</h3>
