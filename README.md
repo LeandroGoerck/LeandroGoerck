@@ -1,5 +1,5 @@
 # Hey 👋, I'm Leandro Goerck
-<p><img align="right" src="./MyOctocatNoBg2.png" alt="A happy octocat with dark glasses holding a laptop." /></p>
+<p><img align="right" src="./MyOctocatNoBg2.png" alt="A happy octocat with dark glasses holding a laptop." width="500" height="600"/></p>
 
 <h3 align="center">A passionate fullstack student from Brazil</h3>
 
