@@ -7,7 +7,7 @@ Studying software development at Trybe.  <img width='20px' height='20px' src='ht
   - :heavy_check_mark: Web Development Introduction
   - :heavy_check_mark: Front-end Development
   - :heavy_check_mark: Back-end Development
-  - :white_square_button: Computer Cience
+  - :heavy_check_mark: Computer Cience
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
