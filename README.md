@@ -1,13 +1,9 @@
 # Hey 👋, I'm Leandro Goerck
 
 
-<h3 align="center">A passionate fullstack student from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-Studying software development at Trybe.  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' /> 
-  - :heavy_check_mark: Web Development Introduction
-  - :heavy_check_mark: Front-end Development
-  - :heavy_check_mark: Back-end Development
-  - :heavy_check_mark: Computer Cience
+Working with C#, typescript and react at [wiipo](https://www.wiipo.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
